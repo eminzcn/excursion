@@ -1,2 +1,2 @@
 # excursion
-Training
+Reklam projesi
